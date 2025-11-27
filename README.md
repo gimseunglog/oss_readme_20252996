@@ -18,7 +18,7 @@ top
 ```
 
 + 실행 화면
-<img width="2537" height="568" alt="스크린샷 2025-11-19 161443" src="https://github.com/user-attachments/assets/6f7eb448-30b5-4ffc-80b1-de78cbfebefe" width="700px"/>
+<img alt="스크린샷 2025-11-19 161443" src="https://github.com/user-attachments/assets/6f7eb448-30b5-4ffc-80b1-de78cbfebefe"/>
 
 + 각 열의 의미
   
@@ -77,7 +77,7 @@ ps
 ```
 
 + 실행 화면
-<img width="570" height="134" alt="제목 없음2" src="https://github.com/user-attachments/assets/2de21c64-88dd-4b6b-9f87-2e4bbe9abd0f" width="700px"/>
+<img alt="제목 없음2" src="https://github.com/user-attachments/assets/2de21c64-88dd-4b6b-9f87-2e4bbe9abd0f"/>
 
 + 각 열의 의미
 
@@ -110,7 +110,7 @@ jobs
 ```
 
 + 실행 화면
-<img width="1631" height="257" alt="제목 없음" src="https://github.com/user-attachments/assets/232d3b2a-28ed-45fd-873a-df83eccd7a97" width="700px"/>
+<img alt="제목 없음" src="https://github.com/user-attachments/assets/232d3b2a-28ed-45fd-873a-df83eccd7a97"/>
 
 
 + 각 열의 의미
